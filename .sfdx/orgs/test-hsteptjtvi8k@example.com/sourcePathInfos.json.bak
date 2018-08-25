@@ -32,27 +32,27 @@
     [
         "/Users/ygiridi/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default",
             "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1535237853788,
+            "changeTime": 1535237853788,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
             "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1535240451001,
-            "changeTime": 1535240451001,
-            "contentHash": "e7b5eaa2a8f19cbed11166f6290386da19ad8a23"
+            "state": "u"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 256,
-            "modifiedTime": 1535238481577,
-            "changeTime": 1535238481577,
-            "contentHash": "85bb657e849e129bcb47b601a8756e977b00eb7f",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 224,
+            "modifiedTime": 1535237895899,
+            "changeTime": 1535237895899,
+            "contentHash": "5ca4cc853f4c69e72ebce6e78574af0aca926132"
         }
     ],
     [
@@ -280,14 +280,14 @@
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 207,
             "modifiedTime": 1535238084350,
             "changeTime": 1535238084351,
-            "contentHash": "37e98d89648bc66e9fbd19c28468ec4a1ac8cbb7",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "37e98d89648bc66e9fbd19c28468ec4a1ac8cbb7"
         }
     ],
     [
@@ -382,68 +382,81 @@
         }
     ],
     [
+        "/Users/ygiridi/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 269,
+            "modifiedTime": 1535237853846,
+            "changeTime": 1535237853846,
+            "contentHash": "e99f135594bd04345fa30a8e86f221af5cd3636b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
         "/Users/ygiridi/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17965,
-            "modifiedTime": 1535240450986,
-            "changeTime": 1535240450986,
-            "contentHash": "367a6af42fb2450bd5565686d1c3142a0acecb7b"
+            "modifiedTime": 1535237853877,
+            "changeTime": 1535237853877,
+            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4901,
-            "modifiedTime": 1535240450991,
-            "changeTime": 1535240450991,
-            "contentHash": "818fac152dcbd0a876f1fd4ba26a9fd6ad8fa32f"
+            "modifiedTime": 1535237853889,
+            "changeTime": 1535237853889,
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4565,
-            "modifiedTime": 1535240450995,
-            "changeTime": 1535240450995,
-            "contentHash": "665233142a5406f18026670e6eb62428a25a0256"
+            "modifiedTime": 1535237853896,
+            "changeTime": 1535237853896,
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4561,
-            "modifiedTime": 1535240451000,
-            "changeTime": 1535240451000,
-            "contentHash": "8debf61cd8c3b8b898c06affa7ad15c4e330f339"
+            "modifiedTime": 1535237853900,
+            "changeTime": 1535237853900,
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
-            "modifiedTime": 1535240451002,
-            "changeTime": 1535240451002,
-            "contentHash": "06d699755004bd5c7fd70dfe29fffcf5c6d49bc6"
+            "modifiedTime": 1535233840347,
+            "changeTime": 1535233840347,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -465,7 +478,7 @@
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
             "size": 352,
-            "modifiedTime": 1535238736255,
+            "modifiedTime": 1535235757066,
             "changeTime": 1535235757066,
             "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
             "isMetadataFile": false,
@@ -503,10 +516,10 @@
         {
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "size": 543,
-            "modifiedTime": 1535238684844,
-            "changeTime": 1535238684844,
-            "contentHash": "ba892487c274523a3492ac51fb844efd3c82be7c",
+            "size": 342,
+            "modifiedTime": 1535235665624,
+            "changeTime": 1535235665625,
+            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -568,10 +581,10 @@
         {
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "size": 396,
-            "modifiedTime": 1535238736143,
-            "changeTime": 1535238736146,
-            "contentHash": "5be79da3411f9293763443f4cd6220a43b6604f5",
+            "size": 256,
+            "modifiedTime": 1535235728215,
+            "changeTime": 1535235728217,
+            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -969,209 +982,131 @@
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1535238818653,
-            "changeTime": 1535238008721,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 352,
+            "modifiedTime": 1535238008721,
+            "changeTime": 1535238008721,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1535237895902,
             "changeTime": 1535237895902,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "size": 334,
-            "modifiedTime": 1535238780480,
-            "changeTime": 1535238780481,
-            "contentHash": "49e4faceaf3b95c23e8205edf5175b917c73d0c5",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 261,
+            "modifiedTime": 1535237962887,
+            "changeTime": 1535237962888,
+            "contentHash": "b34fcebfb5dc798f7cf6689df2f96cc92eb6f534"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1535237895900,
             "changeTime": 1535237895900,
-            "contentHash": "1535fd0a14b1d55c7ad7cd83bfb2085ef1e50c52",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "1535fd0a14b1d55c7ad7cd83bfb2085ef1e50c52"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 43,
             "modifiedTime": 1535238008608,
             "changeTime": 1535238008609,
-            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1535237895902,
             "changeTime": 1535237895902,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1535237895902,
             "changeTime": 1535237895902,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "size": 834,
-            "modifiedTime": 1535238818543,
-            "changeTime": 1535238818544,
-            "contentHash": "5c1acac5172e5a41ab9e7148280b54e2d251eda0",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 380,
+            "modifiedTime": 1535237985630,
+            "changeTime": 1535237985630,
+            "contentHash": "af8e52d17b24a9d9669a5f8ea4e13b1c9e7faa45"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1535237895901,
             "changeTime": 1535237895901,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1535237895901,
             "changeTime": 1535237895901,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1535238601342,
-            "changeTime": 1535238601342,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "size": 101,
-            "modifiedTime": 1535238601232,
-            "changeTime": 1535238601233,
-            "contentHash": "3d043fa3d281fd6d59cc86c1f79350f15eb5bbf8",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "size": 242,
-            "modifiedTime": 1535238481577,
-            "changeTime": 1535238481577,
-            "contentHash": "cec1196c308ccd6bc750071048cc217eb2543ac8",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ygiridi/geolocation/force-app/main/default/tabs/TestAccountInfo.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/tabs/TestAccountInfo.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 272,
-            "modifiedTime": 1535240450966,
-            "changeTime": 1535240450966,
-            "contentHash": "79dae865399c7084d4d51178177e5c277c44c265"
-        }
-    ],
-    [
-        "/Users/ygiridi/geolocation/force-app/main/default/settings/Security.settings-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/settings/Security.settings-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 2515,
-            "modifiedTime": 1535240451002,
-            "changeTime": 1535240451002,
-            "contentHash": "a39c5ffdb3c855e2da94059adea8288f484f1db3"
-        }
-    ],
-    [
-        "/Users/ygiridi/geolocation/force-app/main/default/settings",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ygiridi/geolocation/force-app/main/default/settings",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1535240451001,
-            "changeTime": 1535240451001,
-            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
